@@ -10,7 +10,7 @@ public class app {
 	}
 	
 	public static void metho1() {
-		System.out.println("");
+		System.out.println("Test1.");
 	}
 
 }
