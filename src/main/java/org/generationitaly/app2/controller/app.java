@@ -11,6 +11,7 @@ public class app {
 	
 	public static void metho1() {
 		System.out.println("Test1.");
+		System.out.println("Test2.");
 	}
 
 }
